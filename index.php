@@ -13,7 +13,7 @@
 
 <div id="main">
 
-    <img src="/media/robot-img.png" width="1000" height="1266" border="0" />
+    <img src="/media/robot-img.png" width="1000" height="1266" border="0" style="margin: auto;" />
 
 </div>
 
