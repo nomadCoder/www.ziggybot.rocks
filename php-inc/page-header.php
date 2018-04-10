@@ -15,7 +15,7 @@
                     <a class="nav-link" href="/index.php">Home</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link" data-toggle="dropdown" href="/index.php">Nothing</a>
+                    <a class="nav-link" data-toggle="dropdown" href="/light.php">Light</a>
                     <ul class="dropdown-menu sub-menu">
                         <li class="nav-item"><a href="/index.php" class="nav-link">To See</a></li>
                         <li class="nav-item"><a href="/index.php" class="nav-link">Here</a></li>
