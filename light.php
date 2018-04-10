@@ -13,9 +13,14 @@
 
 <div id="main">
 
-    <form action="/light.php" method="get">
-        <input type="button" value="Light Up!" />
-    </form> 
+    <div id="canvas">
+
+        <form action="/light.php" method="get">
+            <input type="hidden" value="Go" name="Test">
+            <input type="submit" value="Light Up!" name="Light Up">
+        </form> 
+
+    </div>    
 
 </div>
 
